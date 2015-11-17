@@ -1,7 +1,7 @@
 {
   "name": "mdattachment",
   "main": "./lib/mdattachment",
-  "version": "0.0.0",
+  "version": "0.2.0",
   "description": "Attach files to markdown document as a link to an external file or image",
   "keywords": [],
   "repository": "https://github.com/multiscan/atom_mdattachment.git",

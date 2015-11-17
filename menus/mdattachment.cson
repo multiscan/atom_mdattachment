@@ -1,22 +1,22 @@
-# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
-'context-menu':
-  'atom-text-editor': [
-    {
-      'label': 'Toggle mdattachment'
-      'command': 'mdattachment:toggle'
-    }
-  ]
-'menu': [
-  {
-    'label': 'Packages'
-    'submenu': [
-      'label': 'mdattachment'
-      'submenu': [
-        {
-          'label': 'Toggle'
-          'command': 'mdattachment:toggle'
-        }
-      ]
-    ]
-  }
-]
+# # See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+# 'context-menu':
+#   'atom-text-editor': [
+#     {
+#       'label': 'Toggle mdattachment'
+#       'command': 'mdattachment:toggle'
+#     }
+#   ]
+# 'menu': [
+#   {
+#     'label': 'Packages'
+#     'submenu': [
+#       'label': 'mdattachment'
+#       'submenu': [
+#         {
+#           'label': 'Toggle'
+#           'command': 'mdattachment:toggle'
+#         }
+#       ]
+#     ]
+#   }
+# ]
