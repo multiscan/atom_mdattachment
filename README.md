@@ -10,4 +10,4 @@ A checkbox allows to chose if the dropped file have to be copied into its destin
 
 ## Disclaimer
 This is my first atom package. Use it at your own risk.
-It is also prbably superseeded by something better
+It is also probably superseeded by something better
